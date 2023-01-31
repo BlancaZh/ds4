@@ -8,3 +8,8 @@ img{
 p{
     font-size: xx-large;
 }
+
+.skip{
+    position:absolute;
+    left:-1000px;
+}
